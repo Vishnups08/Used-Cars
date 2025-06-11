@@ -52,7 +52,6 @@ This project is a Streamlit-based web application that provides an interactive i
 - Plotly
 - Matplotlib
 - Seaborn
-```
 
 ### Usage
 
