@@ -57,7 +57,6 @@ This project is a Streamlit-based web application that provides an interactive i
 ## Usage
 
 1. Run the Streamlit app:
-```bash
 streamlit run app.py
 ```
 
