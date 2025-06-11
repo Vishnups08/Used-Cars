@@ -86,7 +86,7 @@ The application allows you to compare the performance of different models:
 - XGBoost: Advanced gradient boosting model
 
 ## Acknowledgments
-- Dataset source: [Add dataset source]
+- Dataset source: https://www.kaggle.com/datasets/taeefnajib/used-car-price-prediction-dataset
 - Streamlit for the web application framework
 - Scikit-learn and XGBoost for machine learning capabilities
 - Plotly for interactive visualizations 
