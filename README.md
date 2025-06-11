@@ -54,7 +54,7 @@ This project is a Streamlit-based web application that provides an interactive i
 - Seaborn
 ```
 
-## Usage
+### Usage
 
 1. Run the Streamlit app:
 streamlit run app.py
