@@ -58,7 +58,7 @@ This project is a Streamlit-based web application that provides an interactive i
 1. Run the Streamlit app:
 streamlit run app.py
 
-2. Open your web browser and navigate to the URL shown in the terminal (typically http://localhost:8501)
+2. Open your web browser and navigate to the URL shown in the terminal
 
 3. Use the sidebar navigation to access different features:
    - Data Overview: Explore the dataset and visualizations
